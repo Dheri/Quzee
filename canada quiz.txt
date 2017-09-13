@@ -1,0 +1,59 @@
+# instructions
+# 
+# this is an example of comment
+# comments start with'#' symbol as first character of line.
+# write down question , 4 options, and answer key each seperated by : 
+# answer key represents the required answer
+# 0 represent option not required while 1 represent option is required
+# 0010 means 3rd option is correct
+# 1010 means 1st and 3rd options are right
+# 0111 means last 3 options are correct
+# credits are given only if all reqired options were given by user.
+# each question should be written in single line (dont press Enter key unless you want to start next question)
+#
+# questions start below this line.
+
+
+Canada's birthday is on? : July 1st: July 4th : July 10th : July 15th : 1000
+
+The population of Canada in 2017 is almost: 13 million : 23 million  : 36 million : 43 million : 0010
+
+The capital city of Canada is : Montreal : Ottawa : Toronto : Vancouver : 0100
+
+Select Canada's official language(s) : English :  Cree (a native Indian language) : French : Inuktitut :1010
+
+The largest city in Canada is : Quebec : Winnipeg : Toronto : Edmonton : 0010
+
+Canada has _____ provinces. : 5 : 10 : 15 : 20 : 0100
+
+Put a check beside each of Canada territories. :Queensland : Nunavut : Northwest Territories : Yukon :0111
+
+The smallest province in Canada is: Nova Scotia : Quebec : Prince Edward Island : British Columbia : 0010
+
+The only province in Canada which has a majority of French speakers is: Quebec : Montreal : Ontario : Nunavut :1000
+
+The first people to live in Canada were the: Vikings : Native People : French : English :0100
+
+Canada was first colonized from Europe by the: English : Dutch : Spanish : French : 0001
+
+The animal which is the symbol of Canada is the: Grizzly Bear :  Killer Whale : Beaver : Polar Bear : 0010
+
+The plant which is a symbol of Canada is: Clover Leaf : Marijuana Leaf : Nootka rose : Maple Leaf : 0001
+
+Canada became a country in the year: 1847 : 1857 : 1867 : 1877 : 0010
+
+To which Normandy beach were most Canadian troops assigned on D-Day, June 6, 1944? : Utah : Juno : Sword : Omaha : 0100
+
+##
+## BETA Feature (or rather planned feature, which was never fully implemented)
+##
+# the following question was for another question type (the survey question)
+# in which any response by user is considered as correct response
+# and no credit should be given for this answer, 
+# but instead this information must be sent to server
+# so that it can make a graphs with this data.
+# Survey question is represented by 'x' in the end of the answer key.
+# since this feature is not functional is the app thats why the next line is commented
+
+
+# Rate this app out of 10 : 0 : 4: 8 : 10 : 1111x
