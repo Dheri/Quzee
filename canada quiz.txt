@@ -45,7 +45,7 @@ Canada became a country in the year: 1847 : 1857 : 1867 : 1877 : 0010
 To which Normandy beach were most Canadian troops assigned on D-Day, June 6, 1944? : Utah : Juno : Sword : Omaha : 0100
 
 ##
-## BETA Feature (or rather planned feature, which was never fully implemented)
+## BETA Feature (or rather planned feature, which was never fully implemented).
 ##
 # the following question was for another question type (the survey question)
 # in which any response by user is considered as correct response
