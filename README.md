@@ -1,4 +1,7 @@
 # Quzee
+
+[![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
+
 This is a Server-Client Multi-Threaded GUI quiz application.
 
 The quespaper file is included as canadaquiz.txt
